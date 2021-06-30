@@ -4,3 +4,4 @@ Mais uma linha adicionada.
 git config --global user.email "alexcaegit@gmail.com"
 git config --global user.name "alexcaegit"
 atualizacao
+Git GUI
