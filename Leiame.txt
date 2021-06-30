@@ -1,0 +1,3 @@
+Arquivo de Inicio dos teste com Repositório de arquivos Git
+O aquivo apareceu em Status.
+Mais uma linha adicionada.
